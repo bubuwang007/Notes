@@ -1,3 +1,8 @@
+<style>
+table {
+margin: auto;
+}
+</style>
 # 5.31
 
 *dexterity*				n. 灵巧；敏捷；机敏	/dekˈsterəti/ 
@@ -27,4 +32,23 @@
 *plagiarism*				n. 剽窃；剽窃物	/ˈpleɪdʒərɪzəm/ 
 
  
+
+# 6.2
+
+*Towering genius disdains the beaten path. It seeks regions hitherto unexploerd.*
+
+*formality*				n. 礼节；拘谨；仪式；正式手续；正式	 /fɔːrˈmæləti/ 
+
+*be characterized by*	具有…的特性；以…为特征	 /'kærɪktə'raɪzd/ 
+
+*originating*			 v. 起源；创立（originate 的现在分词）/ə'ridʒineitiŋ/ 
+
+|    Formal     | Informal |
+| :-----------: | :------: |
+| *demonstrate* |  *show*  |
+|   *employ*    |  *use*   |
+|   *obatain*   |  *get*   |
+| *fundemantal* | *basic*  |
+|   *inform*    |  *tell*  |
+|  *commence*   | *begin*  |
 
