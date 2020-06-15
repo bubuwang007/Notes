@@ -52,3 +52,21 @@ margin: auto;
 |   *inform*    |  *tell*  |
 |  *commence*   | *begin*  |
 
+
+
+# 6.15
+
+*metal*					n. 金属；合金 vt. 以金属覆盖 adj. 金属制的	 /ˈmetl/
+
+*lustrous*				adj. 有光泽的；光辉的	/ˈlʌstrəs/
+
+*beauty*				  n. 美；美丽；美人；美好的东西	 /ˈbjuːti/ 
+
+*resistant*			   adj. 抵抗的，反抗的；顽固的	 /rɪˈzɪstənt/ 
+
+*be resistant to*
+
+*corrosion*			 n. 腐蚀；腐蚀产生的物质；衰败	 /kəˈroʊʒn/ 
+
+*jewerly*				  n. 珠宝；珠宝类	/'dʒʊəlri/
+
